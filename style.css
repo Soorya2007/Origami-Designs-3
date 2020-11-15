@@ -1,0 +1,16 @@
+.origami{
+    display: flex;
+    flex-direction: row;
+    background-color: #8b008b;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 10px;
+    font-family: fantasy;
+}
+h1{
+    padding: 20px;
+}
+
+body{
+    margin: 0px;
+}
